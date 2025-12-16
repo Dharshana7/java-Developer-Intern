@@ -75,7 +75,6 @@ java Main
 
 * Improved understanding of Java fundamentals
 * Hands-on experience with OOP concepts
-* Gained confidence in writing structured Java programs
+* Gained confidence in writing structured Java programs.
 
-Detailed documentation is available in the `docs` folder or via the provided Google Docs link.
 
